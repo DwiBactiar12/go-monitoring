@@ -1,0 +1,36 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output of the go coverage tool
+*.coverprofile
+*.cover.out
+
+# Dependency directories (remove if you use vendoring)
+vendor/
+
+# Go modules and sums (optional if you regenerate them)
+# go.sum
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Logs and debug output
+*.log
+*.tmp
+
+# GoLand project files
+*.iml
+*.ipr
+*.iws
+
+# MacOS / Linux files
+.DS_Store
+Thumbs.db
